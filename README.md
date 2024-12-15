@@ -1,4 +1,4 @@
-# Amazon-India-Webscraping
+# Amazon India Webscraping
 ### What is webscraping?
 Web scraping is the automated process of extracting data from websites using programming tools. It involves accessing web pages, parsing their HTML structure, and retrieving specific information such as text, images, or links. Popular libraries for web scraping in Python include BeautifulSoup, requests, and Selenium.
 
